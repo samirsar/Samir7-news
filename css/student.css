@@ -1,0 +1,80 @@
+
+
+.student{
+    background-color:  #292121;
+    height: 884px;
+    margin-top: 163px;
+    border-radius: 9px;
+}
+.inner
+{
+    height: 700px;
+    background-color: black;
+    margin-top:88px;
+    
+    
+}
+
+.bg-dark{
+    /* --bs-bg-opacity: 0; */
+}
+.nev{
+    color:white;
+    text-decoration: none;
+}
+.vertical
+{
+    height: 600px;
+    border-left: 1px solid white;
+}
+.second h2{
+    font-size: 51px;
+}
+label{
+    color:white;
+}
+.form-control{
+    border:none;
+}
+
+.social_handle a
+{
+    text-decoration: none;
+}
+
+.card
+{
+    margin-left:50px;
+    /* background-color: black; */
+    transition: box-shadow .5s;
+}
+.card:hover{
+    box-shadow: 25px 25px 50px #0b0505, -25px -25px 50px #2d302f;
+}
+
+.card-text {
+    color:white;
+}
+.fill {
+    height: 489px;
+    
+}
+.fill div{
+    position:absolute;
+    bottom: 20%;
+    left:5%;
+    
+}
+.fill  img{
+    height: 100%;
+    width: 100%;
+}
+.fill h5{
+    font-size:31px;
+    color: red;
+    opacity: 2;
+}
+.fill p{
+    font-size:17px;
+    color: white;
+}
